@@ -8,6 +8,6 @@ Bu Projede, html,css ve js kullanılmıştır.
 
 <h2> Ekran Görüntüsü </h2>
 
-![]{Express-Home-Delivery-proje-6.gif}
+![](Express-Home-Delivery-proje-6.gif)
 
 
